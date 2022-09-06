@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# tfx components
+/pipelines
+/serving_model
+
 # Distribution / packaging
 .Python
 build/
