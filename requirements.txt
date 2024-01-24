@@ -43,6 +43,6 @@ tensorflow-io-gcs-filesystem==0.25.0
 tensorflow-metadata==1.7.0
 tensorflow-model-analysis
 tensorflow-serving-api==2.8.0
-tensorflow-transform==1.7.0
+tensorflow-transform
 tfx
 
