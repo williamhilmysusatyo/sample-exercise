@@ -1,4 +1,4 @@
-tfx
+tfx==1.14.0
 tensorflow_model_analysis
 tensorflow
 google-cloud-bigquery==3.10.0
