@@ -1,9 +1,2 @@
 tfx 
 tensorflow_model_analysis
-tensorflow
-google-cloud-bigquery==3.10.0
-packaging==21.3
-fastapi
-kaleido
-python-multipart
-uvicorn
